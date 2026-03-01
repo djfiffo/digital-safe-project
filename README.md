@@ -254,3 +254,8 @@ This project is designed for embedded systems practice and FSM implementation st
 
 ---
 
+## Video of Robot Car Testing
+https://youtu.be/FyMOOXe-VQQ
+
+---
+
